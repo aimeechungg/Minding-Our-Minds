@@ -1,0 +1,25 @@
+let capture;
+function setup() {
+  createCanvas(710, 400);
+
+  // Set text characteristics
+  textFont(font);
+  textSize(fontsize);
+  textAlign(CENTER, CENTER);
+textSize(32);
+text('word', -600, 400);
+fill(0, 102, 153);
+
+}
+function setup() {
+  createCanvas(600, 600);
+  capture = createCapture(VIDEO);
+
+let s = 'You are perfect the way you are!'(50);
+text(s, 10, 10, 70, 80);
+
+textSize(25);
+text('Well, we all know that self-esteem comes from what you think of you, not what other people think of you" -Gloria Gaynord', 10, 30)
+
+textSize(34);
+text('Be true to yourself and don't listen to what others say!', 10, 60)
