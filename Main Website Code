@@ -1,0 +1,62 @@
+<!DOCTYPE HTML>
+<html>
+<body background="https://www.tcnorth.com/wp-content/uploads/2017/03/iStock-615524918-1024x683.jpg"> 	
+<style>
+	{
+	p{
+	text-align: center ;
+}
+	
+	}
+	</style>
+	<head>
+		<title>Minding Our Minds</title>
+
+		    <script src="p5.min.js"></script>
+    <script src="addons/p5.dom.min.js"></script>
+    <script src="addons/p5.sound.min.js"></script>
+    <script src="sketch.js"></script>
+	</head>
+
+	<body>
+		<h1><font size="7">Minding Our Minds</font size="7"></h1>
+
+		<p>
+		<font size="6">Hey there! Please press the button below to see something beautiful. Just a reminder that you are wanted and so loved!</font size="6">
+		</p>
+	<script type="text/javascript" src="sketch.js"> </script>
+	<script> background('#fae'); </script>
+	
+	<a href="file:///C:/Users/USER/Downloads/p5%20(2)/p5/empty-example/index.html"><button onclick="myFunction()"> 
+		<button><font size="6">Click me!</font size="6"></button>
+	</a>
+		
+
+		<p>
+			<font size="5">“I think everybody's weird. We should all celebrate our individuality and not be embarrassed or ashamed of it.” -Johnny Depp</font size="5">
+		</p>
+
+		<p>
+			<font size="5">“It’s all about falling in love with yourself and sharing that love with someone who appreciates you, rather than looking for love to compensate for a self-love deficit.” -Eartha Kitt </font size="5">
+		<p> 
+			<strong><font size="5">Links to videos to inspire you!</font size="5"></strong> 
+		</p>
+		<p>
+		<a href="https://rylieyeo.typeform.com/to/EjnxvA"> <font size="5">Self Assessment </font size="5"></a>
+		</p>
+
+			<a href="https://youtu.be/uOrzmFUJtrs "><font size="5">A User's Guide to Building Self-Esteem </font size="5"></a>
+
+			<p>
+				<a href="https://youtu.be/5mP5RveA_tk"><font size="5">Talking About Body Image </font size="5"></a>
+			</p>
+			<p>
+			<a href="https://youtu.be/l_NYrWqUR40 "><font size="5">Tips to boost your confidence  </font size="5"></a>
+		</p>
+		<p>
+			<a href="file:///C:/Users/USER/Desktop/whatis.html "><font size="5"> Our inspiration </font size="5"></a>
+
+		</p>
+	</body>
+</html>
+
